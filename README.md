@@ -5,14 +5,10 @@ The codes are written for practice purpose as part of curriculum and might be to
 lack of comments and proper variable names.
 
 Codes written for understanding concepts such as:
+
 1)Variables
-
 2)Strings
-
 3)Data types
-
 4)Loops
-
 5)Patterns
-
 6)Conditions
